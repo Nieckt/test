@@ -21,6 +21,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    Ťthis is my sun
+    Ťthis is my sum
   </ body>
 </ HTML>
